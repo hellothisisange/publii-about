@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "About Chia0",
+    "description": "",
+    "home_page_url": "https://hellothisisange.github.io/publii-about",
+    "feed_url": "https://hellothisisange.github.io/publii-about/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "chia0"
+    },
+    "items": [
+    ]
+}
